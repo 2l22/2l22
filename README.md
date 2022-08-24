@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2l22
-- 👀 I’m interested in teaching ai how to determine the right and kind information on the internet
+- 👀 I’m interested in teaching ai how to determine the true and kind information on the internet
 - 🌱 I’m currently learning machine learning code
 - 💞️ I’m looking to collaborate on machine learning code
 - 📫 Email me at lt.luan@outlook.com
